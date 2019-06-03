@@ -1,0 +1,14 @@
+body{
+    background-image: url("background.jpeg");
+    background-color: #cccccc;
+}
+h1{
+    color: beige;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 300%;
+}
+h2{
+    color: beige;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 100%;
+}

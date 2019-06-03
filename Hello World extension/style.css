@@ -1,0 +1,15 @@
+h2{
+    color: beige;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 300%;
+}
+body{
+    background-color:black;
+    background-image: url("giphy.gif");
+    background-size : cover;
+}
+input
+{
+    border-radius: 15px;
+
+}
